@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.macastil.ssh.Comandos
+Class-Path: . ganymed-ssh2-build210.jar
+
